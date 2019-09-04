@@ -1,1 +1,3 @@
-this is my hello file without .
+#! /bin/bash
+
+echo "Hello world!"
